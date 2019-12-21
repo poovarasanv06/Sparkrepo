@@ -3,7 +3,7 @@
 3. persist the data into memory and disk with replica of 2
 4. split using tab delimiter
 5. remove the header filtered the first column value does not contains "id"
-6. display only first 10 rows in the screen.
+6. display only first 20 rows in the screen.
 7. filter only Music category data
 8. calculate and show the overall total, max, min duration for Music category
 9. show the codec wise count and minimum duration.
