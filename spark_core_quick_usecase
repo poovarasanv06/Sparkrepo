@@ -1,0 +1,13 @@
+1. create a hdfs file rdd from the file youtube_videos.tsv
+2. increase the number of partitions to 4
+3. persist the data into memory and disk with replica of 2
+4. split using tab delimiter
+5. remove the header filtered the first column value does not contains "id"
+6. display only first 10 rows in the screen.
+7. filter only Music category data
+8. calculate and show the overall total, max, min duration for Music category
+9. show the codec wise count and minimum duration.
+10. show the distinct category of videos
+11. show only the id, duration, height and width sorted by duration.
+12. store the step 11 result in a hdfs location in a single file.
+
